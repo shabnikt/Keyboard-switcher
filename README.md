@@ -1,6 +1,6 @@
 # ru/ua/en/de keyboard installation instraction
 
-1.Download [Punto swintcher](https://yandex.ru/soft/punto/download/?os=win).
+1.Install [Punto swintcher](https://yandex.ru/soft/punto/download/?os=win).
 
 2.Install ru/ua keyboard by this [Repo](https://github.com/neochief/ukrainian-typographic-layouts).
 
