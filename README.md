@@ -10,6 +10,6 @@
 
 Sheets for keyboards.
 
-![Ru/ua keyboard](/images/ru keyboard.png)
+![Ru/ua keyboard](/images/ru_keyboard.png)
 
-![En/de keyboard](/images/en keyboard.png)
+![En/de keyboard](/images/en_keyboard.png)
