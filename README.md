@@ -7,3 +7,9 @@
 3.Install en/de keydoard following this [instraction](https://pieter-degroote.github.io/UltimateKEYS/autohotkey-win.html).
 
 4.To run UltimateKeys from startup put ahk file into "Start Menu\Programs\Startup" path.
+
+Sheets for keyboards.
+
+![Ru/ua keyboard](/images/ru keyboard.png)
+
+![En/de keyboard](/images/en keyboard.png)
